@@ -1,6 +1,5 @@
 
 #Python boto3 code to start and stop EC2 instance 
-#
 
 import sys
 import boto3
